@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Smart Home Controller</string>
+    <string name="light_icon" translatable="false">Light Icon</string>
+    <string name="light_off" translatable="false">Light OFF</string>
+    <string name="fan_icon" translatable="false">Fan Icon</string>
+    <string name="fan_off" translatable="false">Fan OFF</string>
+    <string name="ac_icon" translatable="false">AC Icon</string>
+    <string name="ac_off" translatable="false">AC OFF</string>
+    <string name="door_icon" translatable="false">Door Icon</string>
+    <string name="door_off" translatable="false">Door OFF</string>
+</resources>
